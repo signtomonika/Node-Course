@@ -1,0 +1,5 @@
+Hello World! - Using appendFileSync
+Hello World!
+Hello monikar !
+ Hello monikar ! You are 25 years old.
+ Hello monikar ! You are 25 years old.Hello monikar !
